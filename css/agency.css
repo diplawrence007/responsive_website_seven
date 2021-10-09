@@ -1,0 +1,252 @@
+.container{max-width:1090px}
+body{
+	font-family: 'Conv_911Fonts.com_LucidaGrandeRegular__-_911fonts.com_fonts_ynWe';
+	font-size:16px;
+	line-height:19px;
+	
+}
+p{color:white;}
+.navbar-custom .navbar-toggle {
+border-color: #fed136;
+font-family: 'Titillium Web', sans-serif;
+text-transform: uppercase;
+color: white;
+font-size: 12px;
+margin-top: 23px;
+margin-bottom: 22px;
+background: #f06000;
+}
+
+.navbar-custom .nav li a {
+text-transform: uppercase;
+font-weight: 400;
+letter-spacing: 1px;
+color: white;
+padding: 3px 0px;
+font-size: 18px;
+}
+.navbar-custom .nav li a:hover{
+	color: red;
+border-bottom: 1px solid red;
+}
+.navbar-custom .nav li{
+padding-right: 3px;
+padding-top: 0px;
+	
+}
+.navbar-default {
+	border: none;
+}
+.navbar-custom .nav li span{
+padding-left:5px
+}
+.navbar-brand {
+	float: left;
+	height: 50px;
+	padding: 0px 15px;
+	font-size: 18px;
+	line-height: 20px;
+}
+@media (min-width: 768px) {
+  .navbar-custom {
+    background-color: transparent;
+    padding: 25px 0;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
+    transition: padding 0.3s;
+    border: none;
+	padding-top: 29px;
+	
+	
+  }
+  .navbar-custom .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  
+  .navbar-custom .navbar-nav > .active > a {
+    border-radius: 3px;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-custom.affix {
+    background-color: #1a1a1a;
+padding: 21px 0px 21px 0px;
+  }
+  .navbar-custom.affix .navbar-brand  img{
+    font-size: 1.5em;width:60%
+  }
+  
+}
+
+.navbar-right {
+	margin-right: -15px;
+	padding-top: 10px;
+}
+.banner{
+	background:url(../img/bg-image-gradient.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+.banner h1{
+	font-size:35px;
+	line-height:10px;
+	color:white;
+	padding-top:365px;
+	font-family: 'Arapey', serif;
+}
+.banner h2{
+	font-size:74px;
+	line-height:88px;
+	color:white;
+	padding-bottom:20px;
+	font-family: 'Arapey', serif;
+}
+.MEMBER-side {
+	background: #1a1a17;
+	padding: 11px 22px;
+	color: white;
+	margin: 44px 0px;
+}
+.MEMBER-side h3{
+font-family: 'Arapey', serif;
+}
+.MEMBER-side h4 {
+	color: #f06000;
+	padding: 2px 0px;
+}
+.Lorem-ipsum{
+	background:url(../img/bg-About.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:50px 0px 68px 0px;
+}
+.Lorem-ipsum-one h2{
+	color:#f06c33;
+	font-size:26px;
+	line-height:31px;
+	padding-bottom:13px;
+	padding-top:20px;
+	font-family: 'Arapey', serif;
+}
+.Lorem-ipsum-one img{
+	width:100%
+}
+.Lorem-ipsum-bottom{
+	
+	background: #171313;
+padding: 1px 24px 80px 0px;
+}
+.Lorem-ipsum-bottom ul{
+	text-align: left;
+}
+.Lorem-ipsum-bottom h2{
+	color:white;
+	font-family: 'Arapey', serif;
+	font-size:34px;
+}
+.Lorem-ipsum-bottom ul li{
+	list-style:none;
+	padding-top:21px;
+}
+.Lorem-ipsum-bottom ul li a{
+	
+	color:#dd5801
+}
+.Map img{
+	width:100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+	background:#000000;
+	padding: 80px 0px 50px 0px;
+}
+.icon i{
+color: white;
+font-size: 20px;
+background: #f06000;
+padding: 13px 18px;
+border-radius: 21px;
+margin-right: 15px;
+margin-top:37px
+}
+.footer-text h4{
+	color:white;
+	font-size:20px;
+	line-height:24px;
+}
+.footer-text h5{
+	font-size:16px;
+	line-height:19px;
+	color:#f26000;
+	padding-bottom:13px
+}
+.footer-text p{
+	font-size:14px;
+	line-height:16px;
+	color:#f26000;
+}
+.footer-text h5 a{
+	font-size:16px;
+	line-height:19px;
+	color:#f26000;
+	padding-bottom:13px
+}
+.btn {
+	display: inline-block;
+	padding: 14px 15px;
+	margin-bottom: 0;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 0px;
+	border: none;
+	margin-top: 32px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+/* Default Layout:992px */
+
+
+/* Tablet Layout:768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {
+
+
+
+	
+}
+
+
+/* Mobile Layout:320px */
+@media only screen and (min-width: 320px) and (max-width:767px) {
+.navbar-default {
+	background-color: #1a1a1a;
+	border: none;
+}
+.navbar-brand > img {
+	display: block;
+	width: 87%;
+}
+span{display:none}
+.carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+    display: block;
+    height: 189px;
+    max-width: 332px;
+    margin: 0 auto;
+}
+.banner h2 {
+	font-size: 56px;
+	line-height: 49px;
+	color: white;
+}
+.banner h1 {
+	font-size: 49px;
+	line-height: 6px;
+	color: white;
+	padding-top: 0px;
+}
+.banner {
+	background: url(../img/Bla-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 155px 0px 50px 0px;
+}
+
+
+
+}
+
+
+/* Wide Mobile Layout:480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+.navbar-default {
+	background-color: #1a1a1a;
+	border: none;
+}
+.navbar-brand > img {
+	display: block;
+	width: 87%;
+}
+span{display:none}
+.banner h2 {
+	font-size: 56px;
+	line-height: 49px;
+	color: white;
+}
+.banner h1 {
+	font-size: 49px;
+	line-height: 6px;
+	color: white;
+	padding-top: 0px;
+}
+.banner {
+	background: url(../img/Bla-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 155px 0px 50px 0px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
